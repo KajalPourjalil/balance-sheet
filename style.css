@@ -69,8 +69,12 @@ section {
 }
 
 span {
-    font-weight:normal;
-  }
+    font-weight: normal;
+}
 
 
-  
+table {
+    border-collapse: collapse;
+    border: 0;
+}
+
